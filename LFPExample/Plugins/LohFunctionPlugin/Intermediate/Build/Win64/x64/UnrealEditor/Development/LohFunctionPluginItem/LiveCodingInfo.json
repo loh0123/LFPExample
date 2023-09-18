@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.LohFunctionPluginItem.cpp.obj": [
+			"LFPEquipmentComponent.gen.cpp.obj",
+			"LFPInventoryComponent.gen.cpp.obj",
+			"LFPInventoryInterface.gen.cpp.obj",
+			"LFPItemMutatorComponent.gen.cpp.obj",
+			"LohFunctionPluginItem.init.gen.cpp.obj",
+			"LFPEquipmentComponent.cpp.obj",
+			"LFPInventoryComponent.cpp.obj",
+			"LFPInventoryInterface.cpp.obj",
+			"LFPItemMutatorComponent.cpp.obj",
+			"LohFunctionPluginItem.cpp.obj"
+		]
+	}
+}

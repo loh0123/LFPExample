@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.LohFunctionPluginEditor.cpp.obj": [
+			"LohFunctionPluginEditor.cpp.obj"
+		]
+	}
+}

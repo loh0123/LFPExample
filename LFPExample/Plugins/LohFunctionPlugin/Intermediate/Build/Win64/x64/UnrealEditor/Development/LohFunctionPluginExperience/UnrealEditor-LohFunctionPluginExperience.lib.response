@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LohFunctionPluginExperience.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Engine\Project File\ProjectWorldSim\Intermediate\Build\Win64\x64\ProjectWorldSimEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Engine\Project File\ProjectWorldSim\Plugins\LohFunctionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\LohFunctionPluginExperience\Module.LohFunctionPluginExperience.cpp.obj"
+"D:\Unreal Engine\Project File\ProjectWorldSim\Plugins\LohFunctionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\LohFunctionPluginExperience\Default.rc2.res"
+/OUT:"D:\Unreal Engine\Project File\ProjectWorldSim\Plugins\LohFunctionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\LohFunctionPluginExperience\UnrealEditor-LohFunctionPluginExperience.lib"

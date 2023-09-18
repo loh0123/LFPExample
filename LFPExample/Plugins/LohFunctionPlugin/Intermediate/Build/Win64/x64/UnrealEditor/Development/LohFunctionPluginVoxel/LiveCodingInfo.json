@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.LohFunctionPluginVoxel.cpp.obj": [
+			"LFPVoxelNetworkProxyComponent.gen.cpp.obj",
+			"LFPVoxelRendererComponent.gen.cpp.obj",
+			"LFPVoxelRendererTableComponent.gen.cpp.obj",
+			"LohFunctionPluginVoxel.init.gen.cpp.obj",
+			"LohFunctionPluginVoxel.cpp.obj",
+			"LFPVoxelNetworkProxyComponent.cpp.obj",
+			"LFPVoxelRendererComponent.cpp.obj",
+			"LFPVoxelRendererTableComponent.cpp.obj"
+		]
+	}
+}

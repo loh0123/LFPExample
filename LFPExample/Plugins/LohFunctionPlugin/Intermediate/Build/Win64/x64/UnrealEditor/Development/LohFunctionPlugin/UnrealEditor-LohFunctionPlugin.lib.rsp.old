@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LohFunctionPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Engine\Project File\ProjectWorldSim\Intermediate\Build\Win64\x64\ProjectWorldSimEditor\Development\Engine\SharedPCH.Engine.Cpp17.h.obj"
+"D:\Unreal Engine\Project File\ProjectWorldSim\Plugins\LohFunctionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\LohFunctionPlugin\Module.LohFunctionPlugin.1.cpp.obj"
+"D:\Unreal Engine\Project File\ProjectWorldSim\Plugins\LohFunctionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\LohFunctionPlugin\Module.LohFunctionPlugin.2.cpp.obj"
+"D:\Unreal Engine\Project File\ProjectWorldSim\Plugins\LohFunctionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\LohFunctionPlugin\Module.LohFunctionPlugin.3.cpp.obj"
+"D:\Unreal Engine\Project File\ProjectWorldSim\Plugins\LohFunctionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\LohFunctionPlugin\Default.rc2.res"
+/OUT:"D:\Unreal Engine\Project File\ProjectWorldSim\Plugins\LohFunctionPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\LohFunctionPlugin\UnrealEditor-LohFunctionPlugin.lib"

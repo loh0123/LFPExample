@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.LohFunctionPluginExperience.cpp.obj": [
+			"LFPExperienceComponent.gen.cpp.obj",
+			"LohFunctionPluginExperience.init.gen.cpp.obj",
+			"LFPExperienceComponent.cpp.obj",
+			"LohFunctionPluginExperience.cpp.obj"
+		]
+	}
+}

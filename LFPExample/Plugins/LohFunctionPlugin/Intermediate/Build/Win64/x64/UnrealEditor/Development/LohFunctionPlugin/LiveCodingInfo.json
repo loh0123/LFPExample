@@ -1,0 +1,41 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.LohFunctionPlugin.1.cpp.obj": [
+			"LFPGridContainerComponent.gen.cpp.obj",
+			"LFPGridLibrary.gen.cpp.obj",
+			"LFPGridTickerComponent.gen.cpp.obj"
+		],
+		"Module.LohFunctionPlugin.2.cpp.obj": [
+			"LFPIndexTickerComponent.gen.cpp.obj",
+			"LFPInstanceGridComponent.gen.cpp.obj",
+			"LFPMazeLibrary.gen.cpp.obj",
+			"LFPNoiseLibrary.gen.cpp.obj",
+			"LFPRenderLibrary.gen.cpp.obj"
+		],
+		"Module.LohFunctionPlugin.3.cpp.obj": [
+			"LFProceduralRoomLibrary.gen.cpp.obj",
+			"LFPTCPSocketComponent.gen.cpp.obj",
+			"LFPTickerObject.gen.cpp.obj",
+			"LFPTickManager.gen.cpp.obj",
+			"LFPWorldGrid.gen.cpp.obj",
+			"LohFunctionPlugin.init.gen.cpp.obj",
+			"LohFunctionPluginLibrary.gen.cpp.obj",
+			"LFPGridContainerComponent.cpp.obj",
+			"LFPGridTickerComponent.cpp.obj",
+			"LFPIndexTickerComponent.cpp.obj",
+			"LFPInstanceGridComponent.cpp.obj",
+			"LFPTCPSocketComponent.cpp.obj",
+			"LFPTickManager.cpp.obj",
+			"LFPWorldGrid.cpp.obj",
+			"LohFunctionPlugin.cpp.obj",
+			"LohFunctionPluginLibrary.cpp.obj",
+			"LFPGridLibrary.cpp.obj",
+			"LFPMazeLibrary.cpp.obj",
+			"LFPNoiseLibrary.cpp.obj",
+			"LFProceduralRoomLibrary.cpp.obj",
+			"LFPTickerObject.cpp.obj",
+			"LFPRenderLibrary.cpp.obj"
+		]
+	}
+}

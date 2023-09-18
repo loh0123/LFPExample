@@ -1,0 +1,39 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lohfunctionpluginitem\\module.lohfunctionpluginitem.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal engine\\project file\\projectworldsim\\intermediate\\build\\win64\\x64\\projectworldsimeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lohfunctionpluginitem\\definitions.lohfunctionpluginitem.h",
+            "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\lohfunctionpluginitem\\uht\\lfpequipmentcomponent.gen.cpp",
+            "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\source\\lohfunctionpluginitem\\public\\item\\lfpequipmentcomponent.h",
+            "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\source\\lohfunctionpluginitem\\public\\item\\lfpinventorycomponent.h",
+            "d:\\epic game\\unreal engine\\ue_5.3\\engine\\source\\runtime\\jsonutilities\\public\\jsonobjectwrapper.h",
+            "d:\\epic game\\unreal engine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\jsonutilities\\uht\\jsonobjectwrapper.generated.h",
+            "d:\\epic game\\unreal engine\\ue_5.3\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "d:\\epic game\\unreal engine\\ue_5.3\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "d:\\epic game\\unreal engine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\lohfunctionpluginitem\\uht\\lfpinventorycomponent.generated.h",
+            "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\source\\lohfunctionpluginitem\\public\\item\\lfpinventoryinterface.h",
+            "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\lohfunctionpluginitem\\uht\\lfpinventoryinterface.generated.h",
+            "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\lohfunctionpluginitem\\uht\\lfpequipmentcomponent.generated.h",
+            "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\lohfunctionpluginitem\\uht\\lfpinventorycomponent.gen.cpp",
+            "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\lohfunctionpluginitem\\uht\\lfpinventoryinterface.gen.cpp",
+            "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\lohfunctionpluginitem\\uht\\lfpitemmutatorcomponent.gen.cpp",
+            "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\source\\lohfunctionpluginitem\\public\\item\\lfpitemmutatorcomponent.h",
+            "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\lohfunctionpluginitem\\uht\\lfpitemmutatorcomponent.generated.h",
+            "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\lohfunctionpluginitem\\uht\\lohfunctionpluginitem.init.gen.cpp",
+            "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\source\\lohfunctionpluginitem\\private\\item\\lfpequipmentcomponent.cpp",
+            "d:\\epic game\\unreal engine\\ue_5.3\\engine\\source\\runtime\\engine\\public\\net\\unrealnetwork.h",
+            "d:\\epic game\\unreal engine\\ue_5.3\\engine\\source\\runtime\\net\\core\\public\\net\\core\\propertyconditions\\propertyconditions.h",
+            "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\source\\lohfunctionpluginitem\\private\\item\\lfpinventorycomponent.cpp",
+            "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\source\\lohfunctionpluginitem\\private\\item\\lfpinventoryinterface.cpp",
+            "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\source\\lohfunctionpluginitem\\private\\item\\lfpitemmutatorcomponent.cpp",
+            "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\source\\lohfunctionpluginitem\\private\\lohfunctionpluginitem.cpp",
+            "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\source\\lohfunctionpluginitem\\public\\lohfunctionpluginitem.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

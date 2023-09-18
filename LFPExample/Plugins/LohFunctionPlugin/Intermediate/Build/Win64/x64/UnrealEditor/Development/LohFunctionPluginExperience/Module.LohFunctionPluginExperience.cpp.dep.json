@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lohfunctionpluginexperience\\module.lohfunctionpluginexperience.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal engine\\project file\\projectworldsim\\intermediate\\build\\win64\\x64\\projectworldsimeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lohfunctionpluginexperience\\definitions.lohfunctionpluginexperience.h",
+            "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\lohfunctionpluginexperience\\uht\\lfpexperiencecomponent.gen.cpp",
+            "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\source\\lohfunctionpluginexperience\\public\\experience\\lfpexperiencecomponent.h",
+            "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\lohfunctionpluginexperience\\uht\\lfpexperiencecomponent.generated.h",
+            "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\lohfunctionpluginexperience\\uht\\lohfunctionpluginexperience.init.gen.cpp",
+            "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\source\\lohfunctionpluginexperience\\private\\experience\\lfpexperiencecomponent.cpp",
+            "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\source\\lohfunctionpluginexperience\\private\\lohfunctionpluginexperience.cpp",
+            "d:\\unreal engine\\project file\\projectworldsim\\plugins\\lohfunctionplugin\\source\\lohfunctionpluginexperience\\public\\lohfunctionpluginexperience.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
